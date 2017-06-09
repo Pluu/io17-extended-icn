@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        TextView tv = findViewById(android.R.id.text1);
-        Typeface font = ResourcesCompat.getFont(this, R.font.arizonia);
-        tv.setTypeface(font);
+//        TextView tv = findViewById(android.R.id.text1);
+//        Typeface font = ResourcesCompat.getFont(this, R.font.arizonia);
+//        tv.setTypeface(font);
     }
 }
