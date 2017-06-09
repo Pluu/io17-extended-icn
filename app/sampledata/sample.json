@@ -1,0 +1,32 @@
+{
+  "activities": [
+    {
+      "icon": "@sample/activity_icons[ic_launcher_round.png]",
+      "description": "Biking",
+      "location": "Pleasant Hill, CA",
+      "distance": "48 miles",
+      "date": "Yesterday"
+    },
+    {
+      "icon": "@sample/activity_icons[ic_launcher_round.png]",
+      "description": "Biking",
+      "location": "Pleasant Hill, CA",
+      "distance": "48 miles",
+      "date": "Yesterday"
+    },
+    {
+      "icon": "@sample/activity_icons[ic_launcher_round.png]",
+      "description": "Biking",
+      "location": "Pleasant Hill, CA",
+      "distance": "48 miles",
+      "date": "Yesterday"
+    },
+    {
+      "icon": "@sample/activity_icons[ic_launcher_round.png]",
+      "description": "Biking",
+      "location": "Pleasant Hill, CA",
+      "distance": "48 miles",
+      "date": "Yesterday"
+    }
+  ]
+}

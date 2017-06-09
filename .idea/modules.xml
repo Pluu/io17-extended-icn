@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://C:\GitHub\io17-extended-icn\MyApplication.iml" filepath="C:\GitHub\io17-extended-icn\MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\GitHub\io17-extended-icn\app\app.iml" filepath="C:\GitHub\io17-extended-icn\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io17-extended-icn.iml" filepath="$PROJECT_DIR$/io17-extended-icn.iml" />
     </modules>
   </component>
 </project>
